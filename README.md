@@ -8,3 +8,8 @@ Configure CSS3 Transition animation
 Load and Preview Keyframe animation
 --------------
 ![Keyframe load and preview Workflow](https://github.com/swmitra/html-designer-user-guide/blob/master/demo/KeyframeLoadAndPreviewWorkflow.gif)
+
+--------------
+CSS3 Keyframe animation creation
+--------------
+![Transition Workflow](https://github.com/swmitra/html-designer-user-guide/blob/master/demo/KeyframeCreationWorkflow.gif)
