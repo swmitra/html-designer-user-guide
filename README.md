@@ -8,14 +8,14 @@ UI Introduction
 --------------
 Configure CSS3 Transition animation
 --------------
-![Transition Workflow](https://github.com/swmitra/html-designer-user-guide/blob/master/demo/TransitionWorkflow.gif)
+[Click for an animated Demo of Transition Workflow](https://github.com/swmitra/html-designer-user-guide/blob/master/demo/TransitionWorkflow.gif)
 
 --------------
 Load and Preview Keyframe animation
 --------------
-![Keyframe load and preview Workflow](https://github.com/swmitra/html-designer-user-guide/blob/master/demo/KeyframeLoadAndPreviewWorkflow.gif)
+[Click for an animated Demo of Keyframe load and preview Workflow](https://github.com/swmitra/html-designer-user-guide/blob/master/demo/KeyframeLoadAndPreviewWorkflow.gif)
 
 --------------
 CSS3 Keyframe animation creation
 --------------
-![Transition Workflow](https://github.com/swmitra/html-designer-user-guide/blob/master/demo/KeyframeCreationWorkflow.gif)
+[Click for an animated Demo of Keyframe creation](https://github.com/swmitra/html-designer-user-guide/blob/master/demo/KeyframeCreationWorkflow.gif)
