@@ -1,4 +1,10 @@
 # html-designer-user-guide
+
+--------------
+UI Introduction
+--------------
+![Basic UI](https://github.com/swmitra/html-designer-user-guide/blob/master/demo/Intro.gif)
+
 --------------
 Configure CSS3 Transition animation
 --------------
